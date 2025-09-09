@@ -52,7 +52,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tokiolol&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokiolol&theme=merko&hide_border=true"  />
+  <br>
  <img src="https://github-readme-stats.vercel.app/api?username=tokiolol&theme=merko&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
