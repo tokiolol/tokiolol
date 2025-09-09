@@ -54,7 +54,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tokiolol&theme=merko&show_icons=true&hide_border=true&count_private=true" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tokiolol&theme=merko&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tokiolol&theme=dark" alt="GitHub Streak" /></a>
 </div>
 
 ###
