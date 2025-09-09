@@ -21,11 +21,11 @@
 
 ###
 
-<h1 align="center">Olá, pessoal! 👋</h1>
+<h1 align="center">Olá, Pessoal! 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h3 align="left">👩‍💻  Sobre Mim</h3>
 
 ###
 
@@ -33,7 +33,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Meu Status :</h3>
 
 ###
 
